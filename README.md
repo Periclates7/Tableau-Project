@@ -1,7 +1,7 @@
 ![Cabecera](https://github.com/Periclates7/Tableau-Project/blob/main/img/cabecera.jpg)
 # 📉 TABLEAU PROJECT -> League of Legends World Championship 2022 Stats 🏆🎮
   
-El objeto del presente proyecto es la realización de un análisis a través de un *dashboard* acerca de los datos estadísticos extraídos en el campeonato mundial del videojuego League of Legends. Para ello se ha contado con el siguiente *dataset*, [datos](https://www.kaggle.com/code/erenakbulut/worlds-2022-champs-teams-eda/data), contando solo con aquellos conjuntos de datos que se refieren al *main event*, es decir, la fase final del campeonato. Para hacer el análisis se ha contado con la herramienta de visualización Tableau.
+El objeto del presente proyecto es la realización de un análisis a través de un *dashboard* acerca de los datos estadísticos extraídos en el campeonato mundial del videojuego League of Legends. Para ello se ha contado con el siguiente *dataset*, [WORLDS-2022-Champs-Teams-EDA](https://www.kaggle.com/code/erenakbulut/worlds-2022-champs-teams-eda/data), contando solo con aquellos conjuntos de datos que se refieren al *main event*, es decir, la fase final del campeonato. Para hacer el análisis se ha contado con la herramienta de visualización Tableau.
   
 ## 🎯 OBJETIVOS DEL PROYECTO 
   
